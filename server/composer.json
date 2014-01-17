@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rmccue/requests": ">=1.0",
+        "phansys/getid3": "2.1.*@dev"
+    }
+}
